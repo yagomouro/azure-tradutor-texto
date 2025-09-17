@@ -42,7 +42,3 @@ streamlit run app.py
 │   └── utils.py
 └── requirements.txt
 ```
-
-## Observações
-- A tradução é realizada pelo modelo definido no deployment do Azure OpenAI.
-- A aplicação não armazena textos traduzidos; tudo é processado em tempo real."
